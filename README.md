@@ -14,8 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kvqh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kvqh__" height="30" width="40" /></a>
-<a href="https://instagram.com/amvyas.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amvyas.31" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/BPtG67Fyzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BPtG67Fyzw" height="30" width="40" /></a>
+<a href="https://discord.gg/onlyfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/onlyfan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

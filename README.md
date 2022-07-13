@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lzqlb&label=Profile%20views&color=0e75b6&style=flat" alt="lzqlb" /> </p>
 
-- 🔭 I’m currently working on [✨・TeikoBot](https://discord.gg/EJ2Fd2d6tR)
+- 🔭 I’m currently working on [✨・Weria Protect](https://discord.com/api/oauth2/authorize?client_id=985652327409147944&permissions=8&scope=bot)
 
 - 🌱 I’m currently learning **Pentest, Csharp, PHP**
 
-- 👯 I’m looking to collaborate on [>Sliezy#0001](https://discord.gg/SvQcpVZVAh)
+- 👯 I’m looking to collaborate on [Weria Protect](https://discord.com/api/oauth2/authorize?client_id=985652327409147944&permissions=8&scope=bot)
 
-- 📫 How to reach me **chadowetunes@gmail.com**
+- 📫 How to reach me **0xqlb@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
